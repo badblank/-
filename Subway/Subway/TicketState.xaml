@@ -1,0 +1,43 @@
+﻿<Window x:Class="Subway.TicketState"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Subway"
+        mc:Ignorable="d"
+        Title="TicketState" Height="400" Width="400">
+    <!--<Grid>
+        <Label x:Name="label" Content="起始站点：起始站点" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="68,41,0,0"/>
+        <Label x:Name="label_Copy" Content="终止站点：起始站点" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="68,72,0,0"/>
+        <Label x:Name="label_Copy1" Content="票       种：通票" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="68,98,0,0"/>
+        <Label x:Name="label_Copy2" Content="状       态：出站" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="68,129,0,0"/>
+    </Grid>-->
+    <Grid Background="CadetBlue">
+        <Border Margin="30" Background="AliceBlue" Padding="20" BorderBrush="Red">
+            <StackPanel Background="White" Margin="0,0,-20,0">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="20 15 150 10" Foreground="Red" FontSize="20" Text="票种状态"/>
+                </StackPanel>
+                <StackPanel Margin="5" Orientation="Horizontal">
+                    <Label  Content="起始站点：" Margin="30,0,0,0" Width="80"/>
+                    <Label Name="StartState" Margin="0,0,0,0" Width="auto"/>
+                </StackPanel>
+                <StackPanel Margin="5" Orientation="Horizontal">
+                    <Label  Content="终止站点：" Margin="30,0,0,0" Width="80"/>
+                    <Label Name="EndState" Margin="0,0,0,0" Width="auto"/>
+                </StackPanel>
+                <StackPanel Margin="5" Orientation="Horizontal">
+                    <Label  Content="票       种：" Margin="30,0,0,0" Width="80"/>
+                    <Label Name="TicketType" Margin="0,0,0,0" Width="auto"/>
+                </StackPanel>
+                <StackPanel Margin="5" Orientation="Horizontal">
+                    <Label  Content="状       态：" Margin="30,0,0,0" Width="80"/>
+                    <Label Name="State" Margin="0,0,0,0" Width="auto"/>
+                </StackPanel>
+                <Line X1="10" X2="300" Stroke="AliceBlue" StrokeThickness="2"/>
+
+                <Button Click="return_click" Margin="15" Width="100" Height="35" Background="CadetBlue" Content="确定"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

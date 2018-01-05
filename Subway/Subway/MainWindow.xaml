@@ -1,0 +1,103 @@
+﻿<Window x:Class="Subway.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Subway"
+        mc:Ignorable="d"
+        BorderThickness="0"
+        Title="MainWindow" Height="auto" Width="auto" SizeChanged="Window_SizeChanged" SnapsToDevicePixels="True">
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="0.5*"/>
+        </Grid.RowDefinitions>
+
+        <Border BorderBrush="CadetBlue" CornerRadius="5" Background="CadetBlue" Grid.Column="0" Grid.Row="0" Margin="5">
+            <StackPanel HorizontalAlignment="Center"  VerticalAlignment="Center">
+                <Image Width="auto" Height="auto"  Margin="10" Source="/Images/logo.png"/>
+            </StackPanel>
+        </Border>
+        <Border Background="CadetBlue" BorderBrush="CadetBlue" CornerRadius="10" Margin="5" Grid.Column="1" Grid.Row="0">
+            <!--<Border.Background>
+                <ImageBrush ImageSource="/Images/Background.jpg"/>
+            </Border.Background>-->
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock.Foreground>
+                    <ImageBrush ImageSource="Images/Background.jpg" />
+                </TextBlock.Foreground>
+                <TextBlock  FontSize="32" Foreground="AliceBlue" FontWeight="Bold">郑 州 火 车 站</TextBlock>
+            </StackPanel>
+        </Border>
+        <Border Grid.Column="0" Grid.Row="1" Grid.RowSpan="2" Background="CadetBlue" BorderBrush="CadetBlue" BorderThickness="1" CornerRadius="10" Margin="3">
+            <Grid Button.Click="getNum_Button_Click"  Grid.Column="0" Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" HorizontalAlignment="Center" FontSize="15" Foreground="White" Margin="22,5,23,0" Width="70">选择张数</Label>
+                <Button Name="nbtn1" Grid.Row="1" Margin="20 5 20 5" Background="AliceBlue">一张</Button>
+                <Button Name="nbtn2" Grid.Row="2" Margin="20 5 20 5" Background="AliceBlue">两张</Button>
+                <Button Name="nbtn3" Grid.Row="3" Margin="20 5 20 5" Background="AliceBlue">三张</Button>
+                <Button Name="nbtn4" Grid.Row="4" Margin="20 5 20 5" Background="AliceBlue">四张</Button>
+                <Button Name="nbtn5" Grid.Row="5" Margin="20 5 20 5" Background="AliceBlue">五张</Button>
+                <Button Name="nbtn6" Grid.Row="6" Margin="20 5 20 5" Background="AliceBlue">六张</Button>
+                <Button Name="nbtn7" Grid.Row="7" Margin="20 5 20 5" Background="AliceBlue">七张</Button>
+                <Button Name="nbtn8" Grid.Row="8" Margin="20 5 20 5" Background="AliceBlue">八张</Button>
+                <Button Name="nbtn9" Grid.Row="9" Margin="20 5 20 5" Background="AliceBlue">九张</Button>
+                <Button Name="nbtn10" Grid.Row="10" Margin="20 5 20 5" Background="AliceBlue">十张</Button>
+            </Grid>
+        </Border>
+
+        <Border  Grid.Column="1" Grid.Row="1" Background="CadetBlue" BorderBrush="CadetBlue" CornerRadius="10" Margin="3">
+            <Grid Margin="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.2*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="0.2*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="0.2*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="1.2*"/>
+                </Grid.ColumnDefinitions>
+                <Button FontSize="15" Grid.Row="1" Grid.Column="0" Background="AliceBlue" Content="一号线" Click="Button_Click_1"/>
+                <Button FontSize="15" Grid.Row="1" Grid.Column="2" Background="AliceBlue" Content="总图" Click="Button_Click"/>
+                <Button Click="firstbuyticket_button_click" FontSize="15" Grid.Row="1" Grid.Column="4" Background="AliceBlue" Content="快捷购票"/>
+            </Grid>
+        </Border>
+        
+        <Frame Name="frame1" Grid.Column="1" Grid.Row="2" Padding="10" NavigationUIVisibility="Hidden" Margin="10"/>
+       
+        <Border Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="2" BorderBrush="CadetBlue" CornerRadius="10">
+            <Grid Background="CadetBlue">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1.15*"/>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Button  Grid.Column="0" Margin="20 5 20 5"  Background="Beige">ENGLISH</Button>
+                <Button  Grid.Column="2" Margin="20,5"  Background="Beige" Click="Button_Click_2">取票</Button>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

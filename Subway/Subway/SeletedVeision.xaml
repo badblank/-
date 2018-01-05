@@ -1,0 +1,31 @@
+﻿<Window x:Class="Subway.SeletedVeision"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Subway"
+        mc:Ignorable="d"
+        Title="SeletedVeision" Height="600" Width="900">
+    <Grid Button.Click ="Button_Click">
+        <Grid.Background>
+            <ImageBrush Opacity="1" ImageSource="/Images/Background.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Name="selectedTicket" Grid.Column="1" Grid.Row="1" Foreground="White" FontSize="30" Background="Transparent">选择购票</Button>
+        <Button Name="AdminLogin"  Grid.Column="1" Grid.Row="3" Foreground="White" FontSize="30" Background="Transparent">管理员登录</Button>
+        <Button Name="SelectedIn"  Grid.Column="1" Grid.Row="5" Foreground="White" FontSize="30" Background="Transparent">选择进站</Button>
+    </Grid>
+</Window>

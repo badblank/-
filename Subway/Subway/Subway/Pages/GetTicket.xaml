@@ -1,0 +1,56 @@
+﻿<Window x:Class="Subway.Pages.GetTicket"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Subway.Pages"
+        mc:Ignorable="d"
+        Title="GetTicket" Height="500" Width="600">
+    <Grid Background="CadetBlue">
+        <Border Margin="30" Background="AliceBlue" Padding="20" BorderBrush="Red">
+            <StackPanel Background="White" Margin="0,0,-20,0">
+                <TextBlock Margin="20 5 20 20" Foreground="Red" FontSize="25" Text="购票信息"></TextBlock>
+                <StackPanel RadioButton.Checked ="get_Ticket_type_checked"  Margin="25 3 25 3" Orientation="Horizontal">
+                    <Label Content="票       种："/>
+                    <RadioButton Name="RB1" Margin="10 0 0 0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="单程票"></RadioButton>
+                    <RadioButton Name="RB2" Margin="20 0 0 0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="往返票"></RadioButton>
+                    <RadioButton Name="RB3" Margin="20 0 0 0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="通票"></RadioButton>
+                </StackPanel>
+                <TextBlock Margin="25 3 25 3">
+                    <Label Content="起始车站："/>
+                    <Label Name="label2" Content="" Width="80"/>
+                </TextBlock>
+                <TextBlock Margin="25 3 25 3">
+                    <Label Content="目的车站："/>
+                    <Label Width="80" Name="label3"/>
+                    <Label Content="UserID      :" Padding="0 5 0 0" Margin="80 0 0 0"></Label>
+                    <TextBox Name="userID" Height="25" HorizontalAlignment="Center" VerticalAlignment="Center" Width="80"></TextBox>
+                </TextBlock>
+                <TextBlock Margin="25 3 25 3">
+                    <Label Content="单       价："/>
+                    <Label Name="label4" Width="80"/>
+                    <Label Content="Password :" Padding="0 5 0 0" Margin="80 0 0 0"></Label>
+                    <PasswordBox Name="password" Height="25"  HorizontalAlignment="Center" VerticalAlignment="Center" Width="80"></PasswordBox>
+                </TextBlock>
+                <TextBlock Margin="25 3 25 3">
+                    <Label Content="购票数量："/>
+                    <Label  Name="label5" Width="80"/>
+                    <Label Height="25" Margin="80 0 0 0" Width="120"></Label>
+                    <Button Click="Button_search_Click" Height="25" HorizontalAlignment="Center" VerticalAlignment="Center" Width="50">查询</Button>
+                </TextBlock>
+                
+
+                <TextBlock Margin="25 3 25 3">
+                    <Label FontSize="20" Foreground="Red" Content="应付金额："/>
+                    <Label FontSize="20" Foreground="Red" FontWeight="Bold" Name="label6"/>
+                </TextBlock>
+                <TextBlock Margin="25 3 25 3">
+                    <Label FontSize="20" Foreground="Red" Content="已付金额："/>
+                    <Label Name="label7"/>
+                </TextBlock>
+                <Line X1="5" X2="300" Stroke="AliceBlue" StrokeThickness="2"/>
+                <Button Margin="15" Width="100" Height="35" Background="CadetBlue">取票</Button>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

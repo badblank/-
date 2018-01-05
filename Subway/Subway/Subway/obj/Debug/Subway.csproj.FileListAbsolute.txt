@@ -1,0 +1,46 @@
+D:\visual studio\Projects\Subway\Subway\bin\Debug\Subway.exe.config
+D:\visual studio\Projects\Subway\Subway\bin\Debug\Subway.exe
+D:\visual studio\Projects\Subway\Subway\bin\Debug\Subway.pdb
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway.csprojResolveAssemblyReference.cache
+D:\visual studio\Projects\Subway\Subway\obj\Debug\MainWindow.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\App.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway_MarkupCompile.cache
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway_MarkupCompile.lref
+D:\visual studio\Projects\Subway\Subway\obj\Debug\MainWindow.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway.g.resources
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway.Properties.Resources.resources
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway.csproj.GenerateResource.Cache
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway.exe
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway.pdb
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\All.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\All.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\LineOne.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\LineOne.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\GetTicket.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\GetTicket.baml
+D:\visual studio\Projects\Subway\Subway\bin\Debug\SubwayDatabase.mdf
+D:\visual studio\Projects\Subway\Subway\bin\Debug\SubwayDatabase_log.ldf
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway_Content.g.cs
+G:\Subway\Subway\Subway\bin\Debug\SubwayDatabase.mdf
+G:\Subway\Subway\Subway\bin\Debug\SubwayDatabase_log.ldf
+G:\Subway\Subway\Subway\bin\Debug\Subway.exe.config
+G:\Subway\Subway\Subway\bin\Debug\Subway.exe
+G:\Subway\Subway\Subway\bin\Debug\Subway.pdb
+G:\Subway\Subway\Subway\obj\Debug\Subway.csprojResolveAssemblyReference.cache
+G:\Subway\Subway\Subway\obj\Debug\MainWindow.g.cs
+G:\Subway\Subway\Subway\obj\Debug\Pages\All.g.cs
+G:\Subway\Subway\Subway\obj\Debug\Pages\GetTicket.g.cs
+G:\Subway\Subway\Subway\obj\Debug\Pages\LineOne.g.cs
+G:\Subway\Subway\Subway\obj\Debug\App.g.cs
+G:\Subway\Subway\Subway\obj\Debug\Subway_Content.g.cs
+G:\Subway\Subway\Subway\obj\Debug\Subway_MarkupCompile.cache
+G:\Subway\Subway\Subway\obj\Debug\Subway_MarkupCompile.lref
+G:\Subway\Subway\Subway\obj\Debug\MainWindow.baml
+G:\Subway\Subway\Subway\obj\Debug\Pages\All.baml
+G:\Subway\Subway\Subway\obj\Debug\Pages\GetTicket.baml
+G:\Subway\Subway\Subway\obj\Debug\Pages\LineOne.baml
+G:\Subway\Subway\Subway\obj\Debug\Subway.g.resources
+G:\Subway\Subway\Subway\obj\Debug\Subway.Properties.Resources.resources
+G:\Subway\Subway\Subway\obj\Debug\Subway.csproj.GenerateResource.Cache
+G:\Subway\Subway\Subway\obj\Debug\Subway.exe
+G:\Subway\Subway\Subway\obj\Debug\Subway.pdb

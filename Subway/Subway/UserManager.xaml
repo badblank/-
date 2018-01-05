@@ -1,0 +1,39 @@
+﻿<Window x:Class="Subway.UserManager"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Subway"
+        mc:Ignorable="d"
+        Title="用户管理" Height="340" Width="600">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/images/t1.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="13*"/>
+            <ColumnDefinition Width="36*"/>
+        </Grid.ColumnDefinitions>
+        <TreeView Grid.Column="0" Grid.Row="0"
+                  ScrollViewer.VerticalScrollBarVisibility="Visible"
+                  Margin="0,0,0,0" Tag="UserControls"
+                 TreeViewItem.Selected="TreeViewItem_Selected"   >
+            <TreeView.Background>
+                <ImageBrush ImageSource="/images/t2.jpg"/>
+            </TreeView.Background>
+            <TreeViewItem  Header="开户"  Margin="0,20,0,20"    />
+            <TreeViewItem  Margin="0,20,0,20"  Header="充值" />
+            <TreeViewItem  Margin="0,20,0,20" Header="销户" />
+            <TreeViewItem Name="addManager" Margin="0,20,0,20" Header="添加管理员" />
+            <TreeViewItem Name="DeleteManager" Margin="0,20,0,20" Header="删除管理员" />
+
+        </TreeView>
+        <GridSplitter Grid.Row="0" Grid.Column="1" BorderBrush="Gray"
+                      
+                      BorderThickness="1" ResizeBehavior="CurrentAndNext"/>
+        <Frame Name="frame1" Grid.Column="1" Grid.Row="0" Padding="0,0,0,0" HorizontalAlignment="Stretch"
+               VerticalAlignment="Stretch" NavigationUIVisibility="Hidden"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,190 @@
+D:\visual studio\Projects\Subway\Subway\bin\Debug\Subway.exe.config
+D:\visual studio\Projects\Subway\Subway\bin\Debug\Subway.exe
+D:\visual studio\Projects\Subway\Subway\bin\Debug\Subway.pdb
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway.csprojResolveAssemblyReference.cache
+D:\visual studio\Projects\Subway\Subway\obj\Debug\MainWindow.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\App.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway_MarkupCompile.cache
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway_MarkupCompile.lref
+D:\visual studio\Projects\Subway\Subway\obj\Debug\MainWindow.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway.g.resources
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway.Properties.Resources.resources
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway.csproj.GenerateResource.Cache
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway.exe
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway.pdb
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\All.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\All.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\LineOne.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\LineOne.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\GetTicket.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\GetTicket.baml
+D:\visual studio\Projects\Subway\Subway\bin\Debug\SubwayDatabase.mdf
+D:\visual studio\Projects\Subway\Subway\bin\Debug\SubwayDatabase_log.ldf
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Subway_Content.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\SeletedVeision.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\SeletedVeision.baml
+D:\visual studio\Projects\Subway\Subway\bin\Debug\EntityFramework.dll
+D:\visual studio\Projects\Subway\Subway\bin\Debug\EntityFramework.SqlServer.dll
+D:\visual studio\Projects\Subway\Subway\bin\Debug\EntityFramework.xml
+D:\visual studio\Projects\Subway\Subway\bin\Debug\EntityFramework.SqlServer.xml
+D:\visual studio\Projects\Subway\Subway\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\visual studio\Projects\Subway\Subway\obj\Debug\test.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\test.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\FastBuyTicket.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\FastBuyTicket.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\AdminMainWindow.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\DeleteUser.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\充值.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\开户.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\销户.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\UserManager.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\AdminMainWindow.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\DeleteUser.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\充值.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\开户.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\销户.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\UserManager.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\State.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\UserLogin.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\State.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\Pages\UserLogin.baml
+D:\visual studio\Projects\Subway\Subway\obj\Debug\TicketState.g.cs
+D:\visual studio\Projects\Subway\Subway\obj\Debug\TicketState.baml
+C:\Users\admin\Desktop\Subway\Subway\bin\Debug\Subway.exe.config
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Subway.exe
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Subway.pdb
+C:\Users\admin\Desktop\Subway\Subway\bin\Debug\SubwayDatabase.mdf
+C:\Users\admin\Desktop\Subway\Subway\bin\Debug\SubwayDatabase_log.ldf
+C:\Users\admin\Desktop\Subway\Subway\bin\Debug\Subway.exe
+C:\Users\admin\Desktop\Subway\Subway\bin\Debug\Subway.pdb
+C:\Users\admin\Desktop\Subway\Subway\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Subway\Subway\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Subway\Subway\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Subway\Subway\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Subway\Subway\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Subway.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\AdminMainWindow.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\DeleteUser.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\FastBuyTicket.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\All.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\GetTicket.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\LineOne.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\State.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\UserLogin.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\充值.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\开户.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\销户.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\SeletedVeision.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\test.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\TicketState.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\UserManager.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Subway_Content.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Subway_MarkupCompile.cache
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Subway_MarkupCompile.lref
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\AdminMainWindow.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\DeleteUser.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\FastBuyTicket.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\All.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\GetTicket.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\LineOne.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\State.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\UserLogin.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\充值.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\开户.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\销户.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\SeletedVeision.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\test.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\TicketState.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\UserManager.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Subway.g.resources
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Subway.Properties.Resources.resources
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Subway.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\删除管理员.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\添加管理员.g.cs
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\删除管理员.baml
+C:\Users\admin\Desktop\Subway\Subway\obj\Debug\Pages\添加管理员.baml
+H:\java测试\Subway\Subway\bin\Debug\SubwayDatabase.mdf
+H:\java测试\Subway\Subway\bin\Debug\SubwayDatabase_log.ldf
+H:\java测试\Subway\Subway\bin\Debug\Subway.exe.config
+H:\java测试\Subway\Subway\bin\Debug\Subway.exe
+H:\java测试\Subway\Subway\bin\Debug\Subway.pdb
+H:\java测试\Subway\Subway\bin\Debug\EntityFramework.dll
+H:\java测试\Subway\Subway\bin\Debug\EntityFramework.SqlServer.dll
+H:\java测试\Subway\Subway\bin\Debug\EntityFramework.xml
+H:\java测试\Subway\Subway\bin\Debug\EntityFramework.SqlServer.xml
+H:\java测试\Subway\Subway\bin\Debug\zh-Hans\EntityFramework.resources.dll
+H:\java测试\Subway\Subway\obj\Debug\Subway.csprojResolveAssemblyReference.cache
+H:\java测试\Subway\Subway\obj\Debug\AdminMainWindow.g.cs
+H:\java测试\Subway\Subway\obj\Debug\DeleteUser.g.cs
+H:\java测试\Subway\Subway\obj\Debug\FastBuyTicket.g.cs
+H:\java测试\Subway\Subway\obj\Debug\MainWindow.g.cs
+H:\java测试\Subway\Subway\obj\Debug\Pages\All.g.cs
+H:\java测试\Subway\Subway\obj\Debug\Pages\GetTicket.g.cs
+H:\java测试\Subway\Subway\obj\Debug\Pages\LineOne.g.cs
+H:\java测试\Subway\Subway\obj\Debug\Pages\State.g.cs
+H:\java测试\Subway\Subway\obj\Debug\Pages\UserLogin.g.cs
+H:\java测试\Subway\Subway\obj\Debug\Pages\充值.g.cs
+H:\java测试\Subway\Subway\obj\Debug\Pages\删除管理员.g.cs
+H:\java测试\Subway\Subway\obj\Debug\Pages\开户.g.cs
+H:\java测试\Subway\Subway\obj\Debug\Pages\添加管理员.g.cs
+H:\java测试\Subway\Subway\obj\Debug\Pages\销户.g.cs
+H:\java测试\Subway\Subway\obj\Debug\SeletedVeision.g.cs
+H:\java测试\Subway\Subway\obj\Debug\test.g.cs
+H:\java测试\Subway\Subway\obj\Debug\TicketState.g.cs
+H:\java测试\Subway\Subway\obj\Debug\UserManager.g.cs
+H:\java测试\Subway\Subway\obj\Debug\App.g.cs
+H:\java测试\Subway\Subway\obj\Debug\Subway_Content.g.cs
+H:\java测试\Subway\Subway\obj\Debug\Subway_MarkupCompile.cache
+H:\java测试\Subway\Subway\obj\Debug\Subway_MarkupCompile.lref
+H:\java测试\Subway\Subway\obj\Debug\AdminMainWindow.baml
+H:\java测试\Subway\Subway\obj\Debug\DeleteUser.baml
+H:\java测试\Subway\Subway\obj\Debug\FastBuyTicket.baml
+H:\java测试\Subway\Subway\obj\Debug\MainWindow.baml
+H:\java测试\Subway\Subway\obj\Debug\Pages\All.baml
+H:\java测试\Subway\Subway\obj\Debug\Pages\GetTicket.baml
+H:\java测试\Subway\Subway\obj\Debug\Pages\LineOne.baml
+H:\java测试\Subway\Subway\obj\Debug\Pages\State.baml
+H:\java测试\Subway\Subway\obj\Debug\Pages\UserLogin.baml
+H:\java测试\Subway\Subway\obj\Debug\Pages\充值.baml
+H:\java测试\Subway\Subway\obj\Debug\Pages\删除管理员.baml
+H:\java测试\Subway\Subway\obj\Debug\Pages\开户.baml
+H:\java测试\Subway\Subway\obj\Debug\Pages\添加管理员.baml
+H:\java测试\Subway\Subway\obj\Debug\Pages\销户.baml
+H:\java测试\Subway\Subway\obj\Debug\SeletedVeision.baml
+H:\java测试\Subway\Subway\obj\Debug\test.baml
+H:\java测试\Subway\Subway\obj\Debug\TicketState.baml
+H:\java测试\Subway\Subway\obj\Debug\UserManager.baml
+H:\java测试\Subway\Subway\obj\Debug\Subway.g.resources
+H:\java测试\Subway\Subway\obj\Debug\Subway.Properties.Resources.resources
+H:\java测试\Subway\Subway\obj\Debug\Subway.csproj.GenerateResource.Cache
+H:\java测试\Subway\Subway\obj\Debug\Subway.exe
+H:\java测试\Subway\Subway\obj\Debug\Subway.pdb
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\bin\Debug\Subway.exe.config
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Subway.exe
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Subway.pdb
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Subway.csprojResolveAssemblyReference.cache
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\AdminMainWindow.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\DeleteUser.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\FastBuyTicket.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\MainWindow.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Pages\All.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Pages\GetTicket.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Pages\LineOne.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Pages\State.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Pages\UserLogin.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Pages\充值.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Pages\删除管理员.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Pages\开户.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Pages\添加管理员.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Pages\销户.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\SeletedVeision.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\test.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\TicketState.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\UserManager.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\App.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Subway_Content.g.cs
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Subway_MarkupCompile.cache
+F:\tmp\寒假U盘\寒假U盘\DGH\java测试\Subway\Subway\obj\Debug\Subway_MarkupCompile.lref
